@@ -8,7 +8,7 @@ description: "This is a short overview on Agile"
 Revolutionary ideas are usually born from the frustration, and Agile wasn’t different. It was created to mitigate Waterfall limitations, and today we can confidently say that it’s revolutionised the way we work.
 In today’s fast changing society, we need to be able to respond to customers' needs very quickly and Agile takes this principle very seriously, giving customers a fundamental role in the development process. Customer satisfaction, continuous improvement, innovation, collaboration, transparency, adaptability and quality are some of the ingredients that make Agile a powerful ally.
 
-<h4>But what’s Agile?</h4>
+#### But what’s Agile?
 Agile is more a mindset than a methodology. “Divide and conquer”, they said.
 Act small, validate and test your solutions soon, so that you can adapt to any changes that come up along the way. Because changes will come up and mistakes will happen but the impact will be predictable, limited and manageable with Agile. If you’re wondering how, this is the formula:
 

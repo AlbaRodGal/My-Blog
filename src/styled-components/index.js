@@ -8,12 +8,11 @@ export const BlogLink = styled(Link)`
 
 export const BlogTitle = styled.h3`
   margin-bottom: 20px;
-  color: #20BDA1
 `
 
 export const MainBlogTitle = styled.h2`
   margin-bottom: 20px;
-`
+  `
 
 export const Divider = styled.div`
   border-left:1px solid #333; 

@@ -8,15 +8,16 @@ const Header = ({ siteTitle }) => (
   <header
     style={{
       padding:`30px 30px`,
-      borderBottom:`1px solid #ddd`
+      borderBottom:`1px solid #ddd`,
+      fontSize: `20px`,
     }}
   >
-    <h1 style={{ color:`#2b2b2b` }}>
+    <h1>
       <Link
-      className="header-text"
+        className="header-text"
         to="/"
         style={{
-          color:`#2b2b2b`,
+          color: `#BF7E45`,
           textDecoration: `none`,
         }}
       >
@@ -26,7 +27,7 @@ const Header = ({ siteTitle }) => (
     <nav
     style={{textAlign: `right`}}
     >
-      <Link style={{fontFamily: "'Droid Sans', sans-serif"}} to="/about">About</Link>
+      <Link to="/about">About</Link>
     </nav>
   </header>
 )
