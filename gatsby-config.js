@@ -4,19 +4,15 @@ const siteMetadata = {
   description: `Kick off your next, great Gatsby project with this simple starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
   author: `Simple`,
   // Add your socials here
-  bio: `It is a long established fact that a reader will be distracted by the
-  readable content of a page when looking at its layout. The point of
-  using Lorem Ipsum is that it has a more-or-less normal distribution of
-  letters, as opposed to using 'Content here, content here', making it
-  look like readable English`,
+  bio: `Currently building up my way up to Software Development and looking for opportunities to make meaningful impact in other people’s lives by building tools that make their everyday better, and by removing barriers that separate people. When I'm not reading, I'm working out, walking or travelling.`,
   socials: [
     {
       name: "Github",
-      url: "https://github.com/thecodemint/gatsby-starter-simple",
+      url: "https://github.com/AlbaRodGal",
     },
     {
       name: "Linkedin",
-      url: "#",
+      url: "https://www.linkedin.com/in/alba-rodriguez-galvez/",
     },
   ],
 }

@@ -27,7 +27,7 @@ const Header = ({ siteTitle }) => (
     <nav
     style={{textAlign: `right`}}
     >
-      <Link to="/about">About</Link>
+      <Link style={{color:`#505050`, fontWeight:`200`}}to="/about">About</Link>
     </nav>
   </header>
 )
