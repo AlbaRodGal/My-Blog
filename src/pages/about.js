@@ -2,7 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Layout from "../components/layout/layout"
-import SEO from "../components/seo/seo"
+import SEO from "../components/SEO/seo"
 
 import { Divider } from "../styled-components/index"
 import { SocialLinks } from "../styled-components/about"
