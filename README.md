@@ -1,3 +1,5 @@
+This blog is hosted on https://albarodriguez.co.uk/
+
 # Blog
 
 This is my personal blog where I'll share 
@@ -9,3 +11,4 @@ This is my personal blog where I'll share
 
 - Gatsby starter simple - https://github.com/thecodemint/gatsby-starter-simple
 - Deployed to Netlify
+
