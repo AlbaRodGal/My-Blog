@@ -4,7 +4,7 @@ import "../../styles/footer.scss"
 
 const Footer = ({ title }) => (
   <footer>
-    { title }  © {new Date().getFullYear()}
+    { title } {new Date().getFullYear()}
   </footer>
 )
 
