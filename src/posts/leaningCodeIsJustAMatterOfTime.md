@@ -14,15 +14,15 @@ I remember I read *The Complete Software Developer's Career Guide* where John So
 
 Do some research on languages and its applications. If you're not sure which one you should start learning, it's okay.  Just pick up one, learn it, practice it and build your first project. If you then need to learn another language, it will be easier. I would however recommend to avoid jumping from one language to another before you get a solid grasp of one. 
 
-I started learning HTML and CSS, and I then built a couple of static websites to put in practice what I had learnt. These are a great entry point for beginners. 
+I started learning HTML and CSS, and I then built a couple of static websites to put into practice what I had learnt. These are a great entry point for beginners. 
 <br>
-A couple of months later, I decided to start learning JavaScript. I chose this combination of languages because I knew I wanted to pursue a career in web development but this will depends on your personal preference.
+A couple of months later, I decided to start learning JavaScript. I chose this combination of languages because I knew I wanted to pursue a career in web development but this will depend on your personal preference.
 
 I also found really good tutorials on Youtube that helped me learn the fundamentals of programming, git and Github, but Youtube is just one of the thousands of resources available out there. We'll see some of these later.
 
 <h4>PRACTICE, PRACTICE, PRACTICE!</h4>
 
-I built my first programme in Python. It took me quite some time and it all was a rollercoaster. Some days I would just get stuck in a simple problem and I would find myself thinking: "Programming is not for me. What am I doing?! I will never be able to learn this". At that point, what works best for me is to have some rest and try the next day again. THAT'S MAGIC! Trust me, the next day everything is clearer. 
+I built my first programme in JavaScript. It took me quite some time and it all was a rollercoaster. Some days I would just get stuck in a simple problem and I would find myself thinking: "Programming is not for me. What am I doing?! I will never be able to learn this". At that point, what works best for me is to have some rest and try the next day again. THAT'S MAGIC! Trust me, the next day everything is clearer. 
 
 I strongly recommend to start building things early in your learning journey. It's going to be hard, but with consistency you can achieve anything. Take your time, do your research, it's okay to google stuff. You'll never be supposed to know everything and google will become a good friend of yours. 
 
