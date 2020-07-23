@@ -1,7 +1,7 @@
 const siteMetadata = {
   // Update the following values to what you please
-  title: `Blog`,
-  description: `Kick off your next, great Gatsby project with this simple starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+  title: `Alba Rodriguez`,
+  description: `This is my personal online space where I'll share my thoughts, productivity tips, book reviews and everything I learn.`,
   author: `Alba Rodríguez`,
   // Add your socials here
   bio: `Currently building up my way up to Software Development and looking for opportunities to make meaningful impact in other people’s lives by building tools that make their everyday better, and by removing barriers that separate people. When I'm not reading, I'm working out, walking or travelling.`,
