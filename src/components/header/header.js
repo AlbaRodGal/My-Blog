@@ -17,7 +17,7 @@ const Header = ({ siteTitle }) => (
         className="header-text"
         to="/"
         style={{
-          color: `#BF7E45`,
+          color: `rgb(163, 98, 172)`,
           textDecoration: `none`,
         }}
       >
