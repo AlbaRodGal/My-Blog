@@ -5,7 +5,7 @@ author: "Alba Rodríguez"
 description: "Have you heard a lot about Hooks but you still don't know what they are or what they do? You're in the right place."
 ---
 
-In May 2020, ThoughtWorks' Technology Radar confirmed that React Hooks is their approach of choice when it comes to manage stateful components in React. <br>
+In May 2020, ThoughtWorks' Technology Radar confirmed that React Hooks is their approach of choice when it comes to managing stateful components in React. <br>
 But, wait a minute! Does that mean I need to rewrite all my code and adopt Hooks? **No!**
 
 - Whether you use React Hooks or not, it's completely up to you. The React Team confirmed they have no plans to remove classes and therefore they'll continue to fully support them.<br>
